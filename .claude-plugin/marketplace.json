@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "kevinmhorvath-hub",
+  "version": "1.0.0",
+  "description": "Kevin Horvath's Claude Code plugins — cybersecurity and AI tooling.",
+  "owner": {
+    "name": "Kevin Horvath",
+    "email": "kevin.horvath@gmail.com",
+    "url": "https://github.com/kevinmhorvath"
+  },
+  "plugins": [
+    {
+      "name": "threat-intel-toolkit",
+      "description": "Defensive IOC + vulnerability triage on free, key-free open-source intel: a subagent plus two skills (threat-intel-lookup and exploit-availability-check). No API keys required.",
+      "source": {
+        "source": "github",
+        "repo": "kevinmhorvath/threat-intel-toolkit"
+      },
+      "category": "security"
+    },
+    {
+      "name": "theboardroom",
+      "description": "An AI executive board of directors (CEO, CFO, COO, CLO, CISO personas) that debates a business idea from each role's perspective and delivers an integrated Go/No-Go board memo.",
+      "source": {
+        "source": "github",
+        "repo": "kevinmhorvath/theboardroom"
+      },
+      "category": "business"
+    }
+  ]
+}
