@@ -26,6 +26,24 @@
         "url": "https://github.com/kevinmhorvath/theboardroom.git"
       },
       "category": "business"
+    },
+    {
+      "name": "linkedin-post-creator",
+      "description": "Drafts polished LinkedIn posts about breaking AI and cybersecurity news in an established practitioner voice — hook-first, news-anchored, fact-checked, with sourced first-comment and hashtag suggestions.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kevinmhorvath/linkedin-post-creator.git"
+      },
+      "category": "productivity"
+    },
+    {
+      "name": "ai-secure-client-docs",
+      "description": "Generates AI Secure Integrators client engagement document packages (NDA, MSA, SOWs) from master templates. Private repo, personal use only — hardcodes local filesystem paths, not portable to other machines.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kevinmhorvath/ai-secure-client-docs.git"
+      },
+      "category": "productivity"
     }
   ]
 }
