@@ -15,6 +15,8 @@ Add it once and install any plugin below.
 |---|---|---|---|
 | **threat-intel-toolkit** | Defensive IOC + CVE triage on free, key-free open-source intel — a subagent plus two skills (`threat-intel-lookup`, `exploit-availability-check`). No API keys. | `/plugin install threat-intel-toolkit@kevinmhorvath-hub` | [repo](https://github.com/kevinmhorvath/threat-intel-toolkit) |
 | **theboardroom** | An AI executive board of directors (CEO, CFO, COO, CLO, CISO personas) that debates a business idea from each role and delivers an integrated Go/No-Go board memo. | `/plugin install theboardroom@kevinmhorvath-hub` | [repo](https://github.com/kevinmhorvath/theboardroom) |
+| **linkedin-post-creator** | Drafts polished LinkedIn posts about breaking AI/cybersecurity news in an established practitioner voice — hook-first, news-anchored, fact-checked, with sourced first-comment and hashtags. | `/plugin install linkedin-post-creator@kevinmhorvath-hub` | [repo](https://github.com/kevinmhorvath/linkedin-post-creator) |
+| **ai-secure-client-docs** | Generates AI Secure Integrators client engagement document packages (NDA, MSA, SOWs) from master templates. Private repo, personal use only. | `/plugin install ai-secure-client-docs@kevinmhorvath-hub` | private repo |
 
 ## How it works
 
